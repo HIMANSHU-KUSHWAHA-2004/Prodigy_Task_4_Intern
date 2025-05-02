@@ -70,8 +70,4 @@
     <li>Run the executable to see the Sudoku puzzle being solved (e.g., <code>./sudoku_solver</code>).</li>
 </ol>
 
-<h2 style="color: #2C3E50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📸 Screenshots</h2>
-<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3436; list-style-type: square; padding-left: 20px;">
-    <li>Before solving</li>
-    <li>After solving</li>
-</ul>
+
